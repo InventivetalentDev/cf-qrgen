@@ -1,4 +1,4 @@
-name = "aged-smoke-bf4f"
+name = "qr"
 main = "src/index.js"
 compatibility_date = "2024-02-23"
 node_compat = true
